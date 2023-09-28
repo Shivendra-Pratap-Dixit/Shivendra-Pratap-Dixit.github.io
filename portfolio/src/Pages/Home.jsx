@@ -24,7 +24,7 @@ export function Home() {
     }, [])
 
     return (
-        <div className="main">
+        <div className="nav-link home">
             <div>
                 {/* <div className="circle"></div> */}
                 <animated.div
