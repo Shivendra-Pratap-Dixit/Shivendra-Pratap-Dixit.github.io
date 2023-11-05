@@ -89,10 +89,10 @@ function Navbar() {
               }}
               className="nav-link resume"
               id="resume-button-1"
-              href="https://drive.google.com/file/d/1RJStHK_6u1ZoO2SNEbvUQLTghljqg_O2/view?usp=sharing"
+              href="https://drive.google.com/file/d/1POkqBmW1WQaBsYnu2M13NrlF93tupr3S/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
-              download="SHIVENDRA-DIXIT-RESUME.pdf"
+              download="Shivendra-Pratap-Dixit.pdf"
             >
               Resume
             </a>
