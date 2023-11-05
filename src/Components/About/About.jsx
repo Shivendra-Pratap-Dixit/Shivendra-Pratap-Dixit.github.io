@@ -8,7 +8,7 @@ import 'aos/dist/aos.css';
 
 function About() {
   return (
-    <div>
+    <div id="about" >
      <ParticlesBg type="square" color="black"  bg={true} />
       <div id="about" className="about section">
         <h1>About me</h1>

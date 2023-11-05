@@ -21,8 +21,8 @@ function Navbar() {
   };
 
   return (
-    <header>
-      <div id="nav-menu" className="navbar">
+    <header id="nav-menu">
+      <div id="nav-menu" className="nav-link home">
         <div>
           <a className="nav-head" href="#">
             SHIVENDRA PRATAP DIXIT
